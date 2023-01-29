@@ -1,0 +1,12 @@
+div{
+    background-color: aquamarine;
+}
+
+h1{
+    color:blue; 
+    transition: color 0.5 ease-in-out;
+} 
+
+.clicked{
+    color: red;
+}
